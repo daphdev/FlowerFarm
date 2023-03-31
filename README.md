@@ -1,6 +1,6 @@
 # FlowerFarm
 
-Đồ án môn học Thiết kế hướng đối tượng, là một game nông trại đơn giản, sử dụng Java Swing, áp dụng các design pattern MVC, Factory, Observer.
+Đồ án môn học Thiết kế hướng đối tượng, là một game nông trại đơn giản, sử dụng Java Swing, áp dụng các design pattern MVC, Factory, Observer, Data Access Object.
 ![FlowerFarm OO Design](https://user-images.githubusercontent.com/60851390/229129579-75c61c7a-b014-497c-ae75-09ce946bcb07.svg)
 
 | (1)                                                                                                                                                         | (2)                                                                                                                                                           | (3)                                                                                                                                                          |

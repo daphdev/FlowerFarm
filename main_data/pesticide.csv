@@ -1,0 +1,3 @@
+itemId,itemName,itemImg,itemPrice,levelUnlock,itemDesc,occurAgain
+PE001,Ordinary,PE001.png,1,0,Description about Ordinary Pesticide.,1
+PE002,Good,PE002.png,2,1,Description about Good Pesticide.,0

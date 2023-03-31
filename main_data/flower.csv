@@ -1,0 +1,12 @@
+itemId,itemName,itemImg,itemPrice,levelUnlock,itemDesc,revenue,stageImg,stageTime,stageNeed
+FL001,Rose,FL001.png,1,0,Description about Rose.,10,FL001s1.png-FL001s2.png-FL001s3.png-FL001s4.png,30-50-40,W-WFP-WP-H
+FL002,Sunflower,FL002.png,2,0,Description about Sunflower.,12,FL001s1.png-FL001s2.png-FL001s3.png-FL002s4.png,30-55-40,W-WFP-WP-H
+FL003,Peony,FL003.png,4,1,Description about Peony.,15,FL001s1.png-FL001s2.png-FL001s3.png-FL003s4.png,35-60-40,W-WFP-WP-H
+FL004,Daisy,FL004.png,6,1,Description about Daisy.,20,FL001s1.png-FL001s2.png-FL001s3.png-FL004s4.png,35-60-42,W-WFP-WP-H
+FL005,Poppy,FL005.png,9,2,Description about Poppy.,25,FL001s1.png-FL001s2.png-FL001s3.png-FL005s4.png,35-62-43,W-WFP-WP-H
+FL006,Carnation,FL006.png,12,2,Description about Carnation.,28,FL001s1.png-FL001s2.png-FL001s3.png-FL006s4.png,37-68-45,W-WFP-WP-H
+FL007,Dahlia,FL007.png,15,3,Description about Dahlia.,32,FL001s1.png-FL001s2.png-FL001s3.png-FL007s4.png,40-70-45,W-WFP-WP-H
+FL008,Aster,FL008.png,18,4,Description about Aster.,35,FL001s1.png-FL001s2.png-FL001s3.png-FL008s4.png,40-73-47,W-WFP-WP-H
+FL009,Pansy,FL009.png,20,5,Description about Pansy.,40,FL001s1.png-FL001s2.png-FL001s3.png-FL009s4.png,40-75-47,W-WFP-WP-H
+FL010,Zinnia,FL010.png,22,6,Description about Zinnia.,50,FL001s1.png-FL001s2.png-FL001s3.png-FL010s4.png,40-80-50,W-WFP-WP-H
+FL011,Gerbera,FL011.png,25,7,Description about Gerbera.,60,FL001s1.png-FL001s2.png-FL001s3.png-FL011s4.png,40-90-50,W-WFP-WP-H

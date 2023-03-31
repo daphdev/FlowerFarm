@@ -1,0 +1,4 @@
+itemId,itemName,itemImg,itemPrice,levelUnlock,itemDesc,percent
+FE001,Ordinary,FE001.png,1,0,Description about Ordinary Fertilizer.,15
+FE002,Medium,FE002.png,2,1,Description about Medium Fertilizer.,30
+FE003,Supreme,FE003.png,4,2,Description about Supreme Fertilizer.,50

@@ -1,0 +1,10 @@
+cellId,stage,flowerId,stageNeedCurrent,timeRemaining,selected,finalRevenue,occurPest
+1,0,,,-1,0,0,1
+2,4,FL003,,0,0,17,0
+3,5,FL001,WFP,0,0,10,1
+4,4,FL010,,0,0,57,0
+5,0,,,-1,0,0,1
+6,0,,,-1,0,0,1
+7,5,FL007,W,0,0,32,1
+8,5,FL004,W,0,0,20,1
+9,0,,,-1,0,0,1
